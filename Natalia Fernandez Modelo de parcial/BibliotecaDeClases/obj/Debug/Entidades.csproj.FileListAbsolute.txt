@@ -1,0 +1,5 @@
+C:\Users\natyf\Desktop\20191010-PrimerParcial-alumno\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\natyf\Desktop\20191010-PrimerParcial-alumno\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\natyf\Desktop\20191010-PrimerParcial-alumno\BibliotecaDeClases\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\natyf\Desktop\20191010-PrimerParcial-alumno\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\natyf\Desktop\20191010-PrimerParcial-alumno\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb
