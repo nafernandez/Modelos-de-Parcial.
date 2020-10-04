@@ -1,0 +1,6 @@
+C:\Users\natyf\source\repos\ModeloDeParcial\ModeloDeParcial\obj\Debug\ModeloDeParcial.csprojAssemblyReference.cache
+C:\Users\natyf\source\repos\ModeloDeParcial\ModeloDeParcial\obj\Debug\ModeloDeParcial.csproj.CoreCompileInputs.cache
+C:\Users\natyf\source\repos\ModeloDeParcial\ModeloDeParcial\bin\Debug\ModeloDeParcial.dll
+C:\Users\natyf\source\repos\ModeloDeParcial\ModeloDeParcial\bin\Debug\ModeloDeParcial.pdb
+C:\Users\natyf\source\repos\ModeloDeParcial\ModeloDeParcial\obj\Debug\ModeloDeParcial.dll
+C:\Users\natyf\source\repos\ModeloDeParcial\ModeloDeParcial\obj\Debug\ModeloDeParcial.pdb
